@@ -5,7 +5,7 @@ import "./App.css";
 import DaumMap from "./components/DaumMap";
 
 class App extends Component {
-  state = {
+   state = {
     lat: 37.326706,
     lng: 127.12462900000003
   };
