@@ -8,7 +8,7 @@ class DaumMap extends Component {
     const style = {
       width: "500px",
       height: "300px"
-    };
+    }; 
 
 
     setTimeout(() => {
